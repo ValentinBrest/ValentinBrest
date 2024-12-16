@@ -8,9 +8,9 @@
   <a href="https://www.linkedin.com/in/valiantsin-konopatsky/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC94FO8WjV346xidJ2_xRLQA/featured">
+<!--   <a href="https://www.youtube.com/channel/UC94FO8WjV346xidJ2_xRLQA/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=ValentinBrest&style=flat-square&color=blue" alt=""/>
